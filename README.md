@@ -1,1 +1,3 @@
 # Cancellation-of-booking-prediction
+
+This project focuses on predicting booking cancellations using machine learning techniques. It involves preprocessing the dataset, feature engineering, training various models (e.g., Logistic Regression, Random Forest), and evaluating their performance. The dataset should include relevant booking details like check-in dates, room types, and customer information. Once trained, the model can predict the likelihood of cancellations, helping businesses manage bookings more efficiently. To use the project, clone the repository, install dependencies, prepare your dataset, and run the provided scripts for training and prediction.
