@@ -7,12 +7,12 @@ This project focuses on predicting booking cancellations using machine learning 
 - Feature Engineering: Create relevant features for model training.
 - Model Training: Train various machine learning models, including Logistic Regression and Random Forest.
 - Performance Evaluation: Assess the performance of different models and select the best one.
-Dataset
+# Dataset
 The dataset should include relevant booking details such as:
 
-Check-in and check-out dates
-Room types
-Customer demographics
-Booking source
-Special requests
-Other relevant features
+- Check-in and check-out dates
+- Room types
+- Customer demographics
+- Booking source
+- Special requests
+- Other relevant features
